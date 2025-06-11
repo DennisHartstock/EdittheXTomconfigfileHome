@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=Edit the XTom config file
+PRODUCT_BUNDLE_IDENTIFIER=procon.xtom.tools.EdittheXTomconfigfile$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
