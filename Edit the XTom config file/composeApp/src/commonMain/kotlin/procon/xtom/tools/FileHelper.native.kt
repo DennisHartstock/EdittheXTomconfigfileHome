@@ -1,5 +1,8 @@
 package procon.xtom.tools
 
+import  java.io.File
+import gson.Gson
+
 fun loadPlatformSpecificConfig(fileName: String): FileHelper? {
     // Implementation for loading config on desktop (JVM)
     return try {
